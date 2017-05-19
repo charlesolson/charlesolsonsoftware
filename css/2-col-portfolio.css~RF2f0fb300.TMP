@@ -68,14 +68,9 @@ footer {
 padding: 2rem;
 }
 
-.centered {
-  display: block;
-  margin-left: auto;
-  margin-right: auto
-}
+.fig-contents-centered {
+align-content:center;
 
-.inline {
-display:inline;
 }
 
 .fig-image-caption {
